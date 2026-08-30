@@ -23,7 +23,7 @@ WAITING_REPLY = {}
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = (
         "👋 Assalomu alaykum!\n\n"
-        "Men <b>Dilshod Toxirov</b>ning feedback botiman.\n\n"
+        "Men <a href='https://t.me/intizomAi_bot'>IntizomAi</a> ning feedback botiman.\n\n"
         "Bu bot orqali siz:\n"
         "💬 Taklif yoki shikoyat yuborishingiz\n"
         "📢 Reklama bo'yicha murojaat qilishingiz\n"
